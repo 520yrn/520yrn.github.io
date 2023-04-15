@@ -1,10 +1,9 @@
 # main links links
 main:
-    
-- title: "Publications"
+
+  - title: "Publications"
     url: /publications/
 
  
-- title: "Contact"
+  - title: "Contact"
     url: /contact/ 
-
