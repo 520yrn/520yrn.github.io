@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
 <p align="center">
   <img src="https://gitxuy.github.io//files/XuY.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
+-->
 
 I’m currently an M.Eng student in the department of Civil and Environmental Engineering in the National University of Singapore (NUS). Prior to this, I received my bachelor degree from Southeast University (SEU) in traffic engineering and joint an exchange program held by NUS and SEU. My research interest lies in many aspects with a particular focus on reinforcement learning and generative advarsarial Networks. In the future, I’m glad to talk about any interesting ideas and have possible collabrations.
 
