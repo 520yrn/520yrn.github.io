@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[View My Up-to-date CV Here [PDF]](http://gitxuy.github.io/files/resume-en.pdf)<br>
-[中文简历](http://gitxuy.github.io/files/resume-zh.pdf)
+[View My Up-to-date CV Here [PDF]](http://520yrn.github.io/files/resume-rn.pdf)<br>
+[中文简历](http://520yrn.github.io/files/resume-rn.pdf)
 
 
 <!-- <embed src="http://http://gitxuy.github.io/files/resume-en.pdf" width="650" height="1800" type='application/pdf'> -->
