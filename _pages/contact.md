@@ -4,6 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Room 619, The National University Science Park of BUPT, BUPT<br>NO. 10 Xitucheng Road, Haidian District, Beijing 100876, China<br>
-Email: xuy [at] bupt.edu.cn<br>
-Email: avexuyue [at] gmail.com<br>
+
++ Address: Department of Civil and Environmental Engineering, National University of Singapore, 1 Engineering Drive
+2, Singapore, 117576, Singapore
+
++ Email: ruining.yang@u.nus.edu
