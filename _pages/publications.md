@@ -17,4 +17,4 @@ author_profile: true
 ## Conference
 
 <b>Dynamic Model Enhanced Reinforcement Learning in Mixed-Fleet Mobility-on-Demand Systems</b><br>
-<b>Ruining Yang</b>, Longhao Yan, Kaidi Yang*, <i> International Symposium on Transportation Data and Modelling (ISTDM) </i>, 2023.
+<b>Ruining Yang</b>, Longhao Yan, Kaidi Yang*. <i> International Symposium on Transportation Data and Modelling (ISTDM) </i>, 2023.
