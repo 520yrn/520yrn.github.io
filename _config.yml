@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue XU"
+title                    : "Ruining Yang"
 title_separator          : "-"
-name                     : &name "Yue XU"
-description              : &description "Ph.D. candidate of the School of Information and Communication Engineering (SICE) in Beijing University of Post and Telecommunication (BUPT)"
-url                      : https://gitxuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruining Yang"
+description              : &description "M.Eng. candidate"
+url                      : https://520yrn.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gitxuy.github.io"
+repository               : "520yrn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,23 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue XU"
-  avatar           : "xuy_profile.jpg"
-  bio              : "Ph.D. candidate"
-  location         : "Beijing, China"
+  name             : "Ruining Yang"
+  avatar           : "photo.jpg"
+  bio              : "M.Eng. candidate"
+  location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_3u5aKQAAAAJ&hl=en"
-  email            : "avexuyue@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yue_Xu122?ev=hdr_xprf&_sg=i9G889lV4Iu_wDrb6UcIM0Kud8NpOrl4IF0BM5KX8NWbX-vJMGw8WmBYVhV8WIK0kws5XKz7J9Dvv78gKpKqInYi"
-  uri              :
+  googlescholar    : 
+  email            : "ruining.yang@u.nus.edu"
+  researchgate     : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gitxuy"
+  github           : "520yrn"
   google_plus      :
   keybase          :
   instagram        :
