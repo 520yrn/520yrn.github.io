@@ -14,16 +14,16 @@ redirect_from:
 </p>
 -->
 
-I’m currently an M.Eng student in the department of Civil and Environmental Engineering in the National University of Singapore (NUS). Prior to this, I received my bachelor degree from Southeast University (SEU) in traffic engineering and joint an exchange program held by NUS and SEU. My research interest lies in many aspects with a particular focus on reinforcement learning and generative advarsarial Networks. In the future, I’m glad to talk about any interesting ideas and have possible collabrations.
+I’m currently an M.Eng student in the department of Civil and Environmental Engineering in National University of Singapore (NUS). Prior to this, I received my bachelor degree from Southeast University (SEU) in traffic engineering and joint an exchange program held by NUS and SEU. My research interest lies in many aspects with a particular focus on reinforcement learning and generative advarsarial networks. In the future, I’m glad to talk about any interesting ideas and possible collabrations.
 <hr/>
 
 # Education
 
 ### M.Eng in Transportation
-+ National University of Singapore, 2023.08 - ongoing
++ National University of Singapore, 2023.08 - Present
 
 ### Exchange Program in Transportation
-+ National University of Singapore, 2022.08 - 2023.06
++ National University of Singapore, 2022.08 - 2023.05
 
 ### B.Eng in Traffic Engineering
 + Southeast University, 2019.09 - 2023.06
