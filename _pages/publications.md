@@ -11,6 +11,7 @@ author_profile: true
 
 <p align="center">
   <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 350px;"/>
 </p>
 
 ## Conference
