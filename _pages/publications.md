@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal
 <b>Optimizing Mixed-Fleet Mobility-on-Demand Systems: A Dynamic Model-Enhanced Reinforcement Learning Approach[Processing]</b><br>
-<b><strong>Ruining Yang</strong>, Longhao Yan, Kaidi Yang*</b>
+<b>Ruining Yang</b>, Longhao Yan, Kaidi Yang*
 
 <p align="center">
   <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 380px;height: 200px;"/>
