@@ -10,8 +10,8 @@ author_profile: true
 <b>Ruining Yang</b>
 
 <p align="center">
-  <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 350px;height: 250px;"/>
-  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 350px;height: 250px;"/>
+  <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 380px;height: 250px;"/>
+  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 380px;height: 250px;"/>
 </p>
 
 ## Conference
