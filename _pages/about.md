@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- 
 <p align="center">
-  <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 380px;height: 200px;"/>
+  <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 280px;height: 100px;"/>
 </p>
 -->
 <p align="center">
