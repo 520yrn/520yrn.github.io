@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- 
 <p align="center">
-  <img src="https://gitxuy.github.io//files/XuY.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 380px;height: 200px;"/>
 </p>
 -->
 <p align="center">
