@@ -21,14 +21,14 @@ I’m currently an M.Eng student in the department of Civil and Environmental En
 
 # Education
 
-### M.Eng in Transportation
-+ National University of Singapore, 2023.08 - Present
+### B.Eng in Traffic Engineering
++ Southeast University, 2019.09 - 2023.06
 
 ### Exchange Program in Transportation
 + National University of Singapore, 2022.08 - 2023.05
 
-### B.Eng in Traffic Engineering
-+ Southeast University, 2019.09 - 2023.06
+### M.Eng in Transportation
++ National University of Singapore, 2023.08 - Present
 
 <hr/>
 
