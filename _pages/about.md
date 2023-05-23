@@ -13,9 +13,6 @@ redirect_from:
   <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 180px;height: 80px;"/>
 </p>
 -->
-<p align="center">
-  <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 240px;height: 360px;"/>
-</p>
 I’m currently an M.Eng student in the department of Civil and Environmental Engineering in National University of Singapore (NUS). Prior to this, I received my bachelor degree from Southeast University (SEU) in traffic engineering and joint an exchange program held by NUS and SEU. My research interest lies in many aspects with a particular focus on reinforcement learning and generative advarsarial networks. In the future, I’m glad to talk about any interesting ideas and possible collabrations.
 <hr/>
 
