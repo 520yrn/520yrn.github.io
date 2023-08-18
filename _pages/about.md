@@ -13,7 +13,7 @@ redirect_from:
   <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 180px;height: 80px;"/>
 </p>
 -->
-I’m currently a student of the research-based program Master of Engineering (M.Eng) in the department of Civil and Environmental Engineering in National University of Singapore (NUS). Prior to this, I received my bachelor degree from Southeast University (SEU) in traffic engineering and joint an exchange program held by NUS and SEU. My research interest lies in many aspects with a particular focus on intelligent transportation systems and traffic equilibrium analysis. In the future, I’m glad to talk about any interesting ideas and potential collabrations.
+I’m currently a student of the research-based program Master of Engineering (M.Eng) in the Department of Civil and Environmental Engineering in the National University of Singapore (NUS). Prior to this, I received my bachelor degree from Southeast University (SEU) in traffic engineering and joined an exchange program held by NUS and SEU. My research interest lies in many aspects with a particular focus on intelligent transportation systems and traffic equilibrium analysis. In the future, I’m glad to talk about any interesting ideas and potential collaborations.
 <hr/>
 
 # Education
@@ -28,6 +28,11 @@ I’m currently a student of the research-based program Master of Engineering (M
 + National University of Singapore, 2023.08 - Present
 
 <hr/>
-
+<p align="center">
+  <img src="https://520yrn.github.io//files/SEU.png" alt="Photo" style="width: 180px;height: 80px;"/>
+</p>
+<p align="center">
+  <img src="https://520yrn.github.io//files/NUS.png" alt="Photo" style="width: 180px;height: 80px;"/>
+</p>
 # Recent News
 * Waiting for updating......
