@@ -29,9 +29,7 @@ I’m currently a student of the research-based program Master of Engineering (M
 
 <hr/>
 <p align="center">
-  <img src="https://520yrn.github.io//files/SEU.png" alt="Photo" style="width: 180px;height: 80px;"/>
-</p>
-<p align="center">
+  <img src="https://520yrn.github.io//files/SEU.png" alt="Photo" style="width: 100px;height: 80px;"/>
   <img src="https://520yrn.github.io//files/NUS.png" alt="Photo" style="width: 180px;height: 80px;"/>
 </p>
 # Recent News
