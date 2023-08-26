@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google"
   google:
-    tracking_id          :
+    tracking_id          :"G-0F37E1ZVC9"
 
 
 # Site Author
