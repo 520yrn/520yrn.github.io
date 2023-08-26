@@ -7,15 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0F37E1ZVC9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-0F37E1ZVC9');
-</script>
 <!-- 
 <p align="center">
   <img src="https://520yrn.github.io//files/image.png" alt="Photo" style="width: 180px;height: 80px;"/>
