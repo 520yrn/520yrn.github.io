@@ -10,8 +10,8 @@ author_profile: true
 <b>Ruining Yang</b>, Longhao Yan, Kaidi Yang*
 
 <p align="center">
-  <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 380px;height: 200px;"/>
-  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 380px;height: 200px;"/>
+  <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 300px;height: 200px;"/>
+  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 300px;height: 200px;"/>
 </p>
 
 <b>Reliable Reinforcement Learning for Efficient Evacuation Considering Uncertain Road Disruption[Pending]</b><br>
