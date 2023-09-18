@@ -26,12 +26,6 @@ I’m currently a student of the research-based program Master of Engineering (M
 
 ### M.Eng in Transportation
 + National University of Singapore, 2023.08 - Present
-<!-- 
-<hr/>
-<p align="left">
-  <img src="https://520yrn.github.io//files/SEU.png" alt="Photo" style="width: 230px;height: 80px;"/>
-  <img src="https://520yrn.github.io//files/NUS.png" alt="Photo" style="width: 180px;height: 80px;"/>
-</p>
--->
+
 # Recent News
 * Waiting for updating......
