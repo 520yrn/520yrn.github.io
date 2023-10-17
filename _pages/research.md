@@ -11,9 +11,8 @@ author_profile: true
 <div style="display: flex;">
     <div style="flex: 50%; padding: 10px;">
         <p align="center">
-  <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 300px;height: 200px;"/>
-  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 300px;height: 200px;"/>
-</p>
+          <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 300px;height: 200px;"/>
+        </p>
     </div>
     <div style="flex: 50%; padding: 10px;">
         右边的内容
