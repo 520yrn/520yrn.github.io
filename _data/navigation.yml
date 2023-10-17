@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: https://520yrn.github.io/_pages/research.html
+    url: /research/ 
     
   - title: "Contact"
     url: /contact/ 
