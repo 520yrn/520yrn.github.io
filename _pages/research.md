@@ -1,17 +1,23 @@
 ---
-<!-- layout: archive -->
-title: "Yue XU 徐越"
-permalink: /cv/
+title: "Research"
+permalink: /researchs/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
-[View My Up-to-date CV Here [PDF]](http://520yrn.github.io/files/resume-rn.pdf)<br>
-[中文简历](http://520yrn.github.io/files/resume-rn.pdf)
 
+## Journal
+<b>1. Physics-Informed Digital Twin-based Value Expansion for Efficient Model-Free Reinforcement Learning in Mixed-Fleet Mobility-on-Demand Systems[Submitted]</b><br>
+<b>Ruining Yang</b>, Longhao Yan, Kaidi Yang*
 
-<!-- <embed src="http://http://gitxuy.github.io/files/resume-en.pdf" width="650" height="1800" type='application/pdf'> -->
+<p align="center">
+  <img src="https://520yrn.github.io//files/1.png" alt="Photo" style="width: 300px;height: 200px;"/>
+  <img src="https://520yrn.github.io//files/2.png" alt="Photo" style="width: 300px;height: 200px;"/>
+</p>
 
-<!-- <embed src="http://http://gitxuy.github.io/files/resume-zh.pdf" width="650" height="1800" type='application/pdf'> -->
+<b>2. Reliable Reinforcement Learning-based Rerouting Strategy for Efficient Evacuation Considering Uncertain Route Disruption[Pending]</b><br>
+<b>Ruining Yang</b>, Kaidi Yang*
+
+## Conference
+
+<b>Dynamic Model Enhanced Reinforcement Learning in Mixed-Fleet Mobility-on-Demand Systems</b><br>
+<b>Ruining Yang</b>, Longhao Yan, Kaidi Yang*. <i> International Symposium on Transportation Data and Modelling (ISTDM) </i>, 2023.
