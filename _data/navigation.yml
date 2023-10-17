@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /research/
+    url: /_pages/research.html
     
   - title: "Contact"
     url: /contact/ 
