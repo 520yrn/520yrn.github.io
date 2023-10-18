@@ -15,6 +15,7 @@ which enhances the data availability and accessibility.
 - Developed numerical simulation to visualize and evaluate the evacuation routes
 
 # Activity
-## Protection and Inheritance of Chinese Brocade, Jul.2021-Aug.2021
+## Protection and Inheritance of Chinese Brocade
+### Jul.2021-Aug.2021
 - Conducted an in-depth survey on the historical significance and cultural value of Chinese brocade to show its impact on weaving techniques.
 - Conducted interviews and made promotional videos with various producers and artisans to gain insights into the production process.
