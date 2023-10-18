@@ -10,4 +10,4 @@ author_profile: true
 
 + Email: ruining.yang@u.nus.edu
 
-+ 65 8863-1125
++ Phone: 65 8863-1125
