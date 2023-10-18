@@ -17,6 +17,7 @@ I’m currently a student in the research-based program Master of Engineering (M
 
 ## CV: <a href="https://520yrn.github.io//files/Ruining_Yang_CV.pdf" download>[click here]</a>
 <hr/>
+
 # Education
 
 ### B.Eng in Traffic Engineering, 2019.09 - 2023.06
