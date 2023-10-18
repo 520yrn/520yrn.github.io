@@ -20,11 +20,13 @@ I’m currently a student in the research-based program Master of Engineering (M
 
 # Education
 
-### B.Eng in Traffic Engineering, 2019.09 - 2023.06
-+ Dept. of Transportation Engineering, Southeast University
+## B.Eng in Traffic Engineering, 2019.09 - 2023.06
+### Dept. of Transportation Engineering, Southeast University
++ Transcript: <a href="https://520yrn.github.io//files/Transcript-Southeast University-Bachelor.pdf" download>[click here]</a>
 
-### Exchange Program in Transportation, 2022.08 - 2023.05
-+ Dept. of Civil & Environmental Engineering, National University of Singapore
+## Exchange Program in Transportation, 2022.08 - 2023.05
+### Dept. of Civil & Environmental Engineering, National University of Singapore
++ Transcript: <a href="https://520yrn.github.io//files/Transcript-National University of Singapore.pdf" download>[click here]</a>
 
 ### M.Eng in Transportation, 2023.08 - Present
 + Dept. of Civil & Environmental Engineering, National University of Singapore
