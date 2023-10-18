@@ -29,5 +29,11 @@ I’m currently a student in the research-based program Master of Engineering (M
 ### M.Eng in Transportation, 2023.08 - Present
 + Dept. of Civil & Environmental Engineering, National University of Singapore
 
+# Research Interest
++ Next-generation transportation systems
++ Connected and autonomous vehicles
++ Traffic flow theory and control
++ Traffic equilibrium and human behavior
+
 # Recent News
 * Waiting for updating......
