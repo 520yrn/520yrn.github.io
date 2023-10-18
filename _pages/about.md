@@ -27,6 +27,7 @@ Dept. of Transportation Engineering, Southeast University
 ### Exchange Program in Transportation, 2022.08 - 2023.05
 Dept. of Civil & Environmental Engineering, National University of Singapore
 + Transcript: <a href="https://520yrn.github.io//files/Transcript-National University of Singapore.pdf" download>[click here]</a>
++ Final Year Project Outcome: <a href="https://520yrn.github.io//files/3+1+1 FYP Assessment Outcome - YANG RUINING.pdf" download>[click here]</a>
 
 ### M.Eng in Transportation, 2023.08 - Present
 Dept. of Civil & Environmental Engineering, National University of Singapore
