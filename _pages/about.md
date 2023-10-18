@@ -38,4 +38,4 @@ Dept. of Civil & Environmental Engineering, National University of Singapore
 + Traffic equilibrium and human behavior
 
 # Recent News
-* Waiting for updating......
+* Academic website updates on Oct. 18, 2023
