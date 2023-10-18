@@ -3,7 +3,7 @@ title: "Prize"
 permalink: /Prize/
 author_profile: true
 ---
-### Second Prize of Chinese National Advanced Mathematics Competition, 2021
+### +Second Prize of Chinese National Advanced Mathematics Competition, 2021
 ### Second Prize of Southeast University Mathematical Modeling, 2021
 ### Second Prize of MathorCup Mathematical Modeling, 2021 
 ### First Prize of Jiangsu Provincial Advanced Mathematics Competition, 2020
