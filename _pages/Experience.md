@@ -1,5 +1,5 @@
 ---
-title: "experience"
+title: "Experience"
 permalink: /Experience/
 author_profile: true
 ---
