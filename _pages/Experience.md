@@ -10,7 +10,7 @@ author_profile: true
 which enhances the data availability and accessibility.
 
 ## Anhui Jintian Infrastructure Design & Developing Co., Ltd.
-### Position: Assistant of Passage Design, Jun. 2021 – July. 2021, <a href="https://520yrn.github.io//files/Internship Certificate.pdf"> Certificate</a>
+### Position: Assistant of Passage Design, Jun. 2021 – July. 2021, Certificate:<a href="https://520yrn.github.io//files/Internship Certificate.pdf"> click here</a>
 - Designed efficient evacuation passages for a residential area to mitigate the risks associated with potential fire hazards
 - Developed numerical simulation to visualize and evaluate the evacuation routes
 
