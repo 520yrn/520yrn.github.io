@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruining Yang"
 title_separator          : "-"
 name                     : &name "Ruining Yang"
-description              : &description "M.Eng. candidate"
+description              : &description "Ph.D. candidate"
 url                      : https://520yrn.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "520yrn.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruining Yang"
   avatar           : "photo.jpg"
-  bio              : "M.Eng. candidate"
-  location         : "Singapore"
+  bio              : "Ph.D. candidate"
+  location         : "United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "ruining.yang@u.nus.edu"
+  email            : "yruining@gatech.edu"
   researchgate     : "https://www.researchgate.net/profile/Yang-Ruining-2"
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   LinkedIn         : "/ruining-yang-85883028a/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-5269-9692"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
