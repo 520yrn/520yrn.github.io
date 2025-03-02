@@ -5,9 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-+ Address: Department of Civil and Environmental Engineering, National University of Singapore, 1 Engineering Drive
-2, Singapore, 117576, Singapore
++ Address: 788 Atlantic Drive, Atlanta, GA 30332, United States
 
-+ Email: ruining.yang@u.nus.edu
++ Email: yruining@gatech.edu
 
-+ Phone: 65 8863-1125
++ Phone: +1 (404) 259-0367
