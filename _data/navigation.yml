@@ -3,12 +3,6 @@ main:
 
   - title: "Research"
     url: /research/ 
-
-  - title: "Experience"
-    url: /Experience/
-    
-  - title: "Prize"
-    url: /Prize/ 
     
   - title: "Contact"
     url: /contact/ 
