@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
         .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
         .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
         .backgroundColor('#000')
-        .width(400)  // 设定地球显示的宽度
-        .height(300) // 设定地球显示的高度
+        .width(4)  // 设定地球显示的宽度
+        .height(3) // 设定地球显示的高度
         .pointAltitude(0.05)
         .pointColor(() => 'red');
 
