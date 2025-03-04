@@ -44,3 +44,48 @@ School of Civil & Environmental Engineering, Georgia Institute of Technology
 
 # Recent News
 * Academic website updates on Mar. 02, 2025
+
+<hr/>
+
+# 🌍 Places I've Visited
+<div id="globe-container" style="width: 100%; height: 500px;"></div>
+
+<script src="https://unpkg.com/three@0.136.0/build/three.min.js"></script>
+<script src="https://unpkg.com/globe.gl"></script>
+
+<script>
+    // 选择地球的容器
+    const globeContainer = document.getElementById('globe-container');
+
+    // 创建地球实例
+    const world = Globe()
+        (globeContainer)
+        .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+        .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
+        .backgroundColor('#000')
+        .pointAltitude(0.05)
+        .pointColor(() => 'red'); // 标记颜色
+
+    // 访问过的地点（经纬度）
+    const visitedPlaces = [
+        { lat: 32.0603, lng: 118.7969, name: "Nanjing, China" },
+        { lat: 1.3521, lng: 103.8198, name: "Singapore" },
+        { lat: 33.7490, lng: -84.3880, name: "Atlanta, USA" }
+    ];
+
+    // 在地球上标记访问过的地点
+    world.pointsData(visitedPlaces)
+        .pointLat(d => d.lat)
+        .pointLng(d => d.lng)
+        .pointLabel(d => d.name)
+        .pointAltitude(0.05)
+        .pointColor(() => 'red');
+
+    // 让地球自动旋转
+    function rotateGlobe() {
+        world.controls().autoRotate = true;
+        world.controls().autoRotateSpeed = 0.5;
+    }
+    rotateGlobe();
+</script>
+
