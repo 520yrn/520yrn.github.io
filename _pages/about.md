@@ -45,5 +45,9 @@ School of Civil & Environmental Engineering, Georgia Institute of Technology
 # Recent News
 * Academic website updates on Mar. 02, 2025
 
+<hr/>
+
+# 🌍 Places I've Visited
+{% include globe.html %}
 
 
