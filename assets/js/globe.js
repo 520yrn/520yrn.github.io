@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
             // 🎨 使用彩色地球贴图
             .globeImageUrl('https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73808/world.topo.bathy.200401.3x5400x2700.jpg')
             .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
-            .backgroundColor('#FFFFFF')
+            .backgroundColor('#FAF3E0') // 米白色，温暖的色调
             .pointAltitude(0.05)
             .pointColor(() => 'red');
 
