@@ -48,9 +48,62 @@ School of Civil & Environmental Engineering, Georgia Institute of Technology
 <hr/>
 
 # 🌍 Places I've Visited
-<div id="globe-container" style="width: 100%; height: 500px;"></div>
 
-<!-- 引入 globe.js -->
-<script src="{{ site.baseurl }}/assets/js/globe.js"></script>
+<div id="globe-container" style="width: 100%; height: 300px;"></div>
+
+<script src="https://unpkg.com/three@0.136.0/build/three.min.js"></script>
+<script src="https://unpkg.com/globe.gl"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const globeContainer = document.getElementById('globe-container');
+
+        if (!globeContainer) {
+            console.error("Globe container not found!");
+            return;
+        }
+
+        const world = Globe()
+            (globeContainer)
+            .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+            .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
+            .backgroundColor('#000')
+            .pointAltitude(0.05)
+            .pointColor(() => 'red');
+
+        // 让地球宽度适应页面
+        function resizeGlobe() {
+            const width = globeContainer.clientWidth;
+            const height = 300;  // 你可以调整高度
+            world.width(width).height(height);
+        }
+
+        resizeGlobe();
+        window.addEventListener('resize', resizeGlobe);
+
+        // 访问过的地点
+        const visitedPlaces = [
+            { lat: 32.0603, lng: 118.7969, name: "Nanjing, China" },
+            { lat: 1.3521, lng: 103.8198, name: "Singapore" },
+            { lat: 33.7490, lng: -84.3880, name: "Atlanta, USA" }
+        ];
+
+        // 标记访问过的城市
+        world.pointsData(visitedPlaces)
+            .pointLat(d => d.lat)
+            .pointLng(d => d.lng)
+            .pointLabel(d => d.name)
+            .pointAltitude(0.05)
+            .pointColor(() => 'red');
+
+        // 自动旋转地球
+        function rotateGlobe() {
+            world.controls().autoRotate = true;
+            world.controls().autoRotateSpeed = 0.5;
+        }
+        rotateGlobe();
+    });
+</script>
+
 
 
