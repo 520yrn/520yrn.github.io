@@ -47,7 +47,7 @@ School of Civil & Environmental Engineering, Georgia Institute of Technology
 
 <hr/>
 
-# 🌍 Places I've Visited
+# Academic Journey
 {% include globe.html %}
 
 
