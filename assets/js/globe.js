@@ -16,17 +16,17 @@ document.addEventListener("DOMContentLoaded", function () {
     script2.onload = function () {
         const world = Globe()
             (globeContainer)
-            // 🎨 这里换成彩色地球贴图
-            .globeImageUrl('//unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
+            // 🎨 使用彩色地球贴图
+            .globeImageUrl('https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73808/world.topo.bathy.200401.3x5400x2700.jpg')
             .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
             .backgroundColor('#000')
             .pointAltitude(0.05)
             .pointColor(() => 'red');
 
-        // 让地球宽度适应页面
+        // 让地球宽高适应 div
         function resizeGlobe() {
             const width = globeContainer.clientWidth;
-            const height = 300;  // 你可以调整高度
+            const height = globeContainer.clientHeight;
             world.width(width).height(height);
         }
 
