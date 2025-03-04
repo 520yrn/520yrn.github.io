@@ -47,7 +47,6 @@ School of Civil & Environmental Engineering, Georgia Institute of Technology
 
 <hr/>
 
-# Academic Journey
 {% include globe.html %}
 
 
