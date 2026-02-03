@@ -33,7 +33,7 @@ Dept. of Civil & Environmental Engineering, National University of Singapore
 ### M.Eng in Transportation, 2023.08 - 2024.07
 Dept. of Civil & Environmental Engineering, National University of Singapore
 
-### Ph.D. in Transportation System Engineering, 2023.08 - Present
+### Ph.D. in Transportation System Engineering, 2024.08 - Present
 School of Civil & Environmental Engineering, Georgia Institute of Technology
 
 # Research Interest
